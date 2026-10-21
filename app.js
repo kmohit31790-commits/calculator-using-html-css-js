@@ -32,4 +32,4 @@ arr.forEach(button =>{
    
           
     })
-})
+});
